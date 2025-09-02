@@ -1,0 +1,26 @@
+.topbar {
+  background: #333;
+  padding: 10px;
+  display: flex;
+  gap: 20px;
+}
+.topbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+.topbar a:hover {
+  text-decoration: underline;
+}
+
+.filters select {
+  margin: 5px;
+  padding: 5px;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 12px;
+  margin: 10px 0;
+}
