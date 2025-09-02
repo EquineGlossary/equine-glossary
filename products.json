@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sup-001",
+    "name": "Cosequin ASU",
+    "brand": "Nutramax",
+    "url": "https://www.nutramaxlabs.com/horse/products/cosequin",
+    "category": "supplements",
+    "description": "Joint health supplement combining glucosamine, chondroitin sulfate, and ASU.",
+    "tags": ["joint", "mobility"],
+    "addedAt": "2025-09-01T00:00:00Z"
+  },
+  {
+    "id": "feed-001",
+    "name": "Purina Strategy GX",
+    "brand": "Purina",
+    "url": "https://www.purinamills.com/horse-feed",
+    "category": "feed",
+    "description": "Balanced feed designed for a wide variety of horses in moderate activity.",
+    "tags": ["performance", "balanced"],
+    "addedAt": "2025-09-01T00:00:00Z"
+  },
+  {
+    "id": "firstaid-001",
+    "name": "Vetrap Bandaging Tape",
+    "brand": "3M",
+    "url": "https://www.3m.com/vetrap",
+    "category": "first-aid",
+    "description": "Flexible, self-adhering bandage wrap widely used for equine first aid.",
+    "tags": ["bandage", "wound-care"],
+    "addedAt": "2025-09-01T00:00:00Z"
+  }
+]
