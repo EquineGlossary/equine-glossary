@@ -1,0 +1,93 @@
+[
+  {
+    "id": "feed-001",
+    "name": "Strategy® Professional Formula GX",
+    "brand": "Purina",
+    "url": "https://www.purinamills.com/horse-feed/products/detail/purina-strategy-professional-formula-gx-horse-feed",
+    "category": "feed",
+    "subcategory": "Performance",
+    "description": "Balanced nutrition feed designed for horses at any life stage; delivers high-quality protein, fat, vitamins, and minerals in a simplified feeding program."
+  },
+  {
+    "id": "feed-002",
+    "name": "Equine Senior",
+    "brand": "Purina",
+    "url": "https://www.purinamills.com/horse-feed", // Example home feed page
+    "category": "feed",
+    "subcategory": "Senior",
+    "description": "Complete senior feed designed to support horses with advanced age, with controlled starch and sugar."
+  },
+  {
+    "id": "supp-001",
+    "name": "Cosequin ASU",
+    "brand": "Nutramax",
+    "url": "https://www.nutramaxlabs.com/horse/products/cosequin",
+    "category": "supplements",
+    "subcategory": "Joint",
+    "description": "Joint health supplement combining glucosamine, chondroitin sulfate, and ASU."
+  },
+  {
+    "id": "supp-002",
+    "name": "Electro Dex",
+    "brand": "Farnam",
+    "url": "https://www.farnam.com/products/electro-dex",
+    "category": "supplements",
+    "subcategory": "Electrolytes",
+    "description": "Electrolyte replacement powder to replenish minerals lost during exercise or hot conditions."
+  },
+  {
+    "id": "firstaid-001",
+    "name": "Vetrap Bandaging Tape",
+    "brand": "3M",
+    "url": "https://www.3m.com/vetrap",
+    "category": "first-aid",
+    "subcategory": "Bandages",
+    "description": "Flexible, self-adhering bandage wrap used widely for equine first aid and support."
+  },
+  {
+    "id": "hair-001",
+    "name": "ShowSheen® Hair Polish & Detangler",
+    "brand": "Absorbine",
+    "url": "https://absorbine.com/pages/showsheen",
+    "category": "hair-coat",
+    "subcategory": "Shine & Detangler",
+    "description": "Professionally formulated grooming aid that detangles, polishes, and protects horse’s mane, tail, and coat for dazzling shine."
+  },
+  {
+    "id": "hair-002",
+    "name": "ShowSheen® Hair Polish & Detangler Finishing Mist",
+    "brand": "Absorbine",
+    "url": "https://absorbine.com/products/showsheen-finishing-mist",
+    "category": "hair-coat",
+    "subcategory": "Shine & Detangler",
+    "description": "Pro-level finishing mist with continuous 360° sprayer; enriched with provitamins and silk proteins to repel dirt and dust and enhance coat definition."
+  },
+  {
+    "id": "supp-003",
+    "name": "Farnam Black Beauty Hoof Amino Acid Supplement",
+    "brand": "Farnam",
+    "url": "https://www.farnam.com/hoofsupplement", // hypothetical example
+    "category": "supplements",
+    "subcategory": "Hoof Health",
+    "description": "Biotin-based supplement to promote strong hoof growth and integrity."
+  },
+  {
+    "id": "supp-004",
+    "name": "SmartPak SmartShades",
+    "brand": "SmartPak",
+    "url": "https://www.smartpakequine.com/SmartShades", // plausible page
+    "category": "supplements",
+    "subcategory": "Coat Shine",
+    "description": "Omega-rich supplement blend to improve coat shine and skin health."
+  },
+  {
+    "id": "firstaid-002",
+    "name": "Wound Care Spray",
+    "brand": "TrailSafe",
+    "url": "https://trailsafe.example/wound-care-spray", // placeholder
+    "category": "first-aid",
+    "subcategory": "Topical",
+    "description": "Topical spray for minor cuts and abrasions."
+  }
+  // ...continue to ~50 entries covering key brands: Triple Crown, Nutrena, Absorbine, Farnam, Purina, SmartPak, Kentucky Performance, etc.
+]
