@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Equine Glossary</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Equine Glossary</h1>
+    <p>A neutral resource for horse owners to explore feeds, supplements, and care products.</p>
+  </header>
+
+  <nav>
+    <select id="categoryFilter">
+      <option value="all">All Categories</option>
+      <option value="supplements">Supplements</option>
+      <option value="feed">Feed</option>
+      <option value="first-aid">First Aid</option>
+      <option value="hair-coat">Hair & Coat</option>
+    </select>
+
+    <input type="text" id="searchBox" placeholder="Search by name or brand..." />
+  </nav>
+
+  <main id="productList"></main>
+
+  <footer>
+    <p>&copy; 2025 Equine Glossary | For informational purposes only</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
