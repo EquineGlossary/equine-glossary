@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Greystone Products</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- Top Bar -->
+  <nav class="topbar">
+    <a href="index.html">Products by Category</a>
+    <a href="brands.html">Products by Brand</a>
+  </nav>
+
+  <header>
+    <h1>Greystone Products</h1>
+    <div class="filters">
+      <select id="categoryFilter">
+        <option value="">All Categories</option>
+      </select>
+      <select id="subcategoryFilter">
+        <option value="">All Subcategories</option>
+      </select>
+      <select id="brandFilter">
+        <option value="">All Brands</option>
+      </select>
+    </div>
+  </header>
+
+  <main id="productList"></main>
+
+  <script src="app.js"></script>
+</body>
+</html>
